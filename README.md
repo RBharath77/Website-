@@ -102,6 +102,7 @@ This project demonstrates:
 # 👨‍💻 Author
 
 **Bharath R**
+
 ---
 
 # 📄 License
